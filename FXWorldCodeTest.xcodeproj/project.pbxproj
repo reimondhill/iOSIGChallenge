@@ -69,7 +69,7 @@
 		238B8C7D238EA1EF0074455D /* Models.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Models.swift; sourceTree = "<group>"; };
 		238B8C7E238EA1EF0074455D /* MarketsDataSource.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MarketsDataSource.swift; sourceTree = "<group>"; };
 		238B8C7F238EA1EF0074455D /* DashboardDataSource.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DashboardDataSource.swift; sourceTree = "<group>"; };
-		23944BB4238D7E9000FA216D /* FXWorldCodeTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FXWorldCodeTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		23944BB4238D7E9000FA216D /* FXWorld Ramon.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "FXWorld Ramon.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		23944BB7238D7E9000FA216D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		23944BB9238D7E9000FA216D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		23944BBB238D7E9000FA216D /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
@@ -194,7 +194,7 @@
 		23944BB5238D7E9000FA216D /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				23944BB4238D7E9000FA216D /* FXWorldCodeTest.app */,
+				23944BB4238D7E9000FA216D /* FXWorld Ramon.app */,
 				23944BCA238D7E9300FA216D /* FXWorldCodeTestTests.xctest */,
 				23944BD5238D7E9300FA216D /* FXWorldCodeTestUITests.xctest */,
 			);
@@ -306,7 +306,7 @@
 			);
 			name = FXWorldCodeTest;
 			productName = FXWorldCodeTest;
-			productReference = 23944BB4238D7E9000FA216D /* FXWorldCodeTest.app */;
+			productReference = 23944BB4238D7E9000FA216D /* FXWorld Ramon.app */;
 			productType = "com.apple.product-type.application";
 		};
 		23944BC9238D7E9300FA216D /* FXWorldCodeTestTests */ = {
@@ -623,13 +623,14 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 33482W4AH2;
 				INFOPLIST_FILE = FXWorldCodeTest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = IG.FXWorldCodeTest;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = IG.Ramon.FXWorldCodeTest;
+				PRODUCT_NAME = "FXWorld Ramon";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -640,13 +641,14 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 33482W4AH2;
 				INFOPLIST_FILE = FXWorldCodeTest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = IG.FXWorldCodeTest;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = IG.Ramon.FXWorldCodeTest;
+				PRODUCT_NAME = "FXWorld Ramon";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};

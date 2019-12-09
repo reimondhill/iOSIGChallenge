@@ -25,7 +25,14 @@ final class FXWorldCoordinator: Coordinator {
     
     private var mainViewController: MainViewController {
         let vc = instantiateViewController(storyboardName: "Main") as MainViewController
-        vc.viewModel = MainViewModel(networkManager: NetworkManager())
+        
+        if ProcessInfo.processInfo.arguments.contains("TEST"){
+            print("I am testing")
+            vc.viewModel = MainViewModel(networkManager: MockNetwork())
+        }
+        else{
+            vc.viewModel = MainViewModel(networkManager: NetworkManager())
+        }
         return vc
     }
     
