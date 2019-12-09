@@ -20,7 +20,6 @@
 		23944BBF238D7E9000FA216D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 23944BBD238D7E9000FA216D /* Main.storyboard */; };
 		23944BC1238D7E9300FA216D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 23944BC0238D7E9300FA216D /* Assets.xcassets */; };
 		23944BC4238D7E9300FA216D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 23944BC2238D7E9300FA216D /* LaunchScreen.storyboard */; };
-		23944BCF238D7E9300FA216D /* FXWorldCodeTestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23944BCE238D7E9300FA216D /* FXWorldCodeTestTests.swift */; };
 		23944BDA238D7E9300FA216D /* FXWorldCodeTestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23944BD9238D7E9300FA216D /* FXWorldCodeTestUITests.swift */; };
 		CF12327E239E5A5E00FF8F4A /* ArrayExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF12327D239E5A5E00FF8F4A /* ArrayExtension.swift */; };
 		CF123280239E60C600FF8F4A /* UIViewControllerExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF12327F239E60C600FF8F4A /* UIViewControllerExtension.swift */; };
@@ -28,7 +27,7 @@
 		CF123285239E83A800FF8F4A /* ContainerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF123284239E83A800FF8F4A /* ContainerView.swift */; };
 		CF123287239E8DC100FF8F4A /* DashboardViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF123286239E8DC100FF8F4A /* DashboardViewController.swift */; };
 		CF123289239E8E6000FF8F4A /* MarketsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF123288239E8E6000FF8F4A /* MarketsViewController.swift */; };
-		CF12328D239E8F9000FF8F4A /* NewsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF12328C239E8F9000FF8F4A /* NewsViewModel.swift */; };
+		CF12328D239E8F9000FF8F4A /* DashboardViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF12328C239E8F9000FF8F4A /* DashboardViewModel.swift */; };
 		CF12328F239E951900FF8F4A /* StringExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF12328E239E951900FF8F4A /* StringExtension.swift */; };
 		CFC20B53239EA1BB00C4F5C6 /* MarketsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFC20B52239EA1BB00C4F5C6 /* MarketsViewModel.swift */; };
 		CFC20B55239EB12A00C4F5C6 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = CFC20B54239EB12A00C4F5C6 /* Localizable.strings */; };
@@ -36,6 +35,13 @@
 		CFC20B59239EB33000C4F5C6 /* NSObjectExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFC20B58239EB33000C4F5C6 /* NSObjectExtension.swift */; };
 		CFC20B5B239EB43000C4F5C6 /* MarketCellViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFC20B5A239EB43000C4F5C6 /* MarketCellViewModel.swift */; };
 		CFC20B5D239EBBB600C4F5C6 /* ExtensionsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFC20B5C239EBBB600C4F5C6 /* ExtensionsTests.swift */; };
+		CFC20B5F239EBD2700C4F5C6 /* UIViewExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFC20B5E239EBD2700C4F5C6 /* UIViewExtension.swift */; };
+		CFC20B61239EBFD700C4F5C6 /* DashboardViewTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFC20B60239EBFD700C4F5C6 /* DashboardViewTest.swift */; };
+		CFC20B65239EC06F00C4F5C6 /* MarketsViewTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFC20B64239EC06F00C4F5C6 /* MarketsViewTest.swift */; };
+		CFC20B67239EC45000C4F5C6 /* MockNetwork.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFC20B66239EC45000C4F5C6 /* MockNetwork.swift */; };
+		CFC20B6B239EC68100C4F5C6 /* MainViewTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFC20B62239EC00700C4F5C6 /* MainViewTest.swift */; };
+		CFC20B6F239EC9F200C4F5C6 /* MarketsResponse.json in Resources */ = {isa = PBXBuildFile; fileRef = CFC20B6D239EC9F100C4F5C6 /* MarketsResponse.json */; };
+		CFC20B70239EC9F200C4F5C6 /* NewsResponse.json in Resources */ = {isa = PBXBuildFile; fileRef = CFC20B6E239EC9F100C4F5C6 /* NewsResponse.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -72,7 +78,6 @@
 		23944BC3238D7E9300FA216D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		23944BC5238D7E9300FA216D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		23944BCA238D7E9300FA216D /* FXWorldCodeTestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FXWorldCodeTestTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		23944BCE238D7E9300FA216D /* FXWorldCodeTestTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FXWorldCodeTestTests.swift; sourceTree = "<group>"; };
 		23944BD0238D7E9300FA216D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		23944BD5238D7E9300FA216D /* FXWorldCodeTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FXWorldCodeTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		23944BD9238D7E9300FA216D /* FXWorldCodeTestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FXWorldCodeTestUITests.swift; sourceTree = "<group>"; };
@@ -83,7 +88,7 @@
 		CF123284239E83A800FF8F4A /* ContainerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContainerView.swift; sourceTree = "<group>"; };
 		CF123286239E8DC100FF8F4A /* DashboardViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DashboardViewController.swift; sourceTree = "<group>"; };
 		CF123288239E8E6000FF8F4A /* MarketsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MarketsViewController.swift; sourceTree = "<group>"; };
-		CF12328C239E8F9000FF8F4A /* NewsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsViewModel.swift; sourceTree = "<group>"; };
+		CF12328C239E8F9000FF8F4A /* DashboardViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DashboardViewModel.swift; sourceTree = "<group>"; };
 		CF12328E239E951900FF8F4A /* StringExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringExtension.swift; sourceTree = "<group>"; };
 		CFC20B52239EA1BB00C4F5C6 /* MarketsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MarketsViewModel.swift; sourceTree = "<group>"; };
 		CFC20B54239EB12A00C4F5C6 /* Localizable.strings */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; path = Localizable.strings; sourceTree = "<group>"; };
@@ -91,6 +96,13 @@
 		CFC20B58239EB33000C4F5C6 /* NSObjectExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NSObjectExtension.swift; sourceTree = "<group>"; };
 		CFC20B5A239EB43000C4F5C6 /* MarketCellViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MarketCellViewModel.swift; sourceTree = "<group>"; };
 		CFC20B5C239EBBB600C4F5C6 /* ExtensionsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtensionsTests.swift; sourceTree = "<group>"; };
+		CFC20B5E239EBD2700C4F5C6 /* UIViewExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIViewExtension.swift; sourceTree = "<group>"; };
+		CFC20B60239EBFD700C4F5C6 /* DashboardViewTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DashboardViewTest.swift; sourceTree = "<group>"; };
+		CFC20B62239EC00700C4F5C6 /* MainViewTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewTest.swift; sourceTree = "<group>"; };
+		CFC20B64239EC06F00C4F5C6 /* MarketsViewTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MarketsViewTest.swift; sourceTree = "<group>"; };
+		CFC20B66239EC45000C4F5C6 /* MockNetwork.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MockNetwork.swift; sourceTree = "<group>"; };
+		CFC20B6D239EC9F100C4F5C6 /* MarketsResponse.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = MarketsResponse.json; sourceTree = "<group>"; };
+		CFC20B6E239EC9F100C4F5C6 /* NewsResponse.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = NewsResponse.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -141,7 +153,7 @@
 			isa = PBXGroup;
 			children = (
 				238B8C7A238EA0A40074455D /* Main */,
-				CF12328A239E8F5C00FF8F4A /* News */,
+				CF12328A239E8F5C00FF8F4A /* Dashboard */,
 				CF12328B239E8F6600FF8F4A /* Markets */,
 			);
 			path = Flows;
@@ -160,6 +172,7 @@
 		238B8C7B238EA1E20074455D /* API */ = {
 			isa = PBXGroup;
 			children = (
+				CFC20B68239EC45400C4F5C6 /* Test */,
 				238B8C72238E9FE20074455D /* FXWorldAPI.swift */,
 				238B8C7F238EA1EF0074455D /* DashboardDataSource.swift */,
 				238B8C7E238EA1EF0074455D /* MarketsDataSource.swift */,
@@ -200,6 +213,7 @@
 				23944BC2238D7E9300FA216D /* LaunchScreen.storyboard */,
 				23944BC5238D7E9300FA216D /* Info.plist */,
 				CFC20B54239EB12A00C4F5C6 /* Localizable.strings */,
+				CFC20B6C239EC9D300C4F5C6 /* SupportingFiles */,
 			);
 			path = FXWorldCodeTest;
 			sourceTree = "<group>";
@@ -208,7 +222,9 @@
 			isa = PBXGroup;
 			children = (
 				CFC20B5C239EBBB600C4F5C6 /* ExtensionsTests.swift */,
-				23944BCE238D7E9300FA216D /* FXWorldCodeTestTests.swift */,
+				CFC20B60239EBFD700C4F5C6 /* DashboardViewTest.swift */,
+				CFC20B62239EC00700C4F5C6 /* MainViewTest.swift */,
+				CFC20B64239EC06F00C4F5C6 /* MarketsViewTest.swift */,
 				23944BD0238D7E9300FA216D /* Info.plist */,
 			);
 			path = FXWorldCodeTestTests;
@@ -223,13 +239,13 @@
 			path = FXWorldCodeTestUITests;
 			sourceTree = "<group>";
 		};
-		CF12328A239E8F5C00FF8F4A /* News */ = {
+		CF12328A239E8F5C00FF8F4A /* Dashboard */ = {
 			isa = PBXGroup;
 			children = (
 				CF123286239E8DC100FF8F4A /* DashboardViewController.swift */,
-				CF12328C239E8F9000FF8F4A /* NewsViewModel.swift */,
+				CF12328C239E8F9000FF8F4A /* DashboardViewModel.swift */,
 			);
-			path = News;
+			path = Dashboard;
 			sourceTree = "<group>";
 		};
 		CF12328B239E8F6600FF8F4A /* Markets */ = {
@@ -251,8 +267,26 @@
 				CF12328E239E951900FF8F4A /* StringExtension.swift */,
 				CF123281239E63B300FF8F4A /* UIStackViewExtension.swift */,
 				CF12327F239E60C600FF8F4A /* UIViewControllerExtension.swift */,
+				CFC20B5E239EBD2700C4F5C6 /* UIViewExtension.swift */,
 			);
 			path = Extensions;
+			sourceTree = "<group>";
+		};
+		CFC20B68239EC45400C4F5C6 /* Test */ = {
+			isa = PBXGroup;
+			children = (
+				CFC20B66239EC45000C4F5C6 /* MockNetwork.swift */,
+			);
+			path = Test;
+			sourceTree = "<group>";
+		};
+		CFC20B6C239EC9D300C4F5C6 /* SupportingFiles */ = {
+			isa = PBXGroup;
+			children = (
+				CFC20B6D239EC9F100C4F5C6 /* MarketsResponse.json */,
+				CFC20B6E239EC9F100C4F5C6 /* NewsResponse.json */,
+			);
+			path = SupportingFiles;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -360,7 +394,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				23944BC4238D7E9300FA216D /* LaunchScreen.storyboard in Resources */,
+				CFC20B6F239EC9F200C4F5C6 /* MarketsResponse.json in Resources */,
 				CFC20B55239EB12A00C4F5C6 /* Localizable.strings in Resources */,
+				CFC20B70239EC9F200C4F5C6 /* NewsResponse.json in Resources */,
 				23944BC1238D7E9300FA216D /* Assets.xcassets in Resources */,
 				23944BBF238D7E9000FA216D /* Main.storyboard in Resources */,
 			);
@@ -387,6 +423,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CFC20B67239EC45000C4F5C6 /* MockNetwork.swift in Sources */,
 				238B8C73238E9FE20074455D /* FXWorldAPI.swift in Sources */,
 				23944BBC238D7E9000FA216D /* MainViewController.swift in Sources */,
 				238B8C82238EA1EF0074455D /* MarketsDataSource.swift in Sources */,
@@ -399,13 +436,14 @@
 				CFC20B5B239EB43000C4F5C6 /* MarketCellViewModel.swift in Sources */,
 				23944BB8238D7E9000FA216D /* AppDelegate.swift in Sources */,
 				23944BBA238D7E9000FA216D /* SceneDelegate.swift in Sources */,
-				CF12328D239E8F9000FF8F4A /* NewsViewModel.swift in Sources */,
+				CF12328D239E8F9000FF8F4A /* DashboardViewModel.swift in Sources */,
 				CF123282239E63B300FF8F4A /* UIStackViewExtension.swift in Sources */,
 				CF123280239E60C600FF8F4A /* UIViewControllerExtension.swift in Sources */,
 				0B053DCD238DC87400FE69D6 /* Coordinator.swift in Sources */,
 				CFC20B53239EA1BB00C4F5C6 /* MarketsViewModel.swift in Sources */,
 				CF123289239E8E6000FF8F4A /* MarketsViewController.swift in Sources */,
 				CF12328F239E951900FF8F4A /* StringExtension.swift in Sources */,
+				CFC20B5F239EBD2700C4F5C6 /* UIViewExtension.swift in Sources */,
 				238B8C80238EA1EF0074455D /* MainViewModel.swift in Sources */,
 				CF123285239E83A800FF8F4A /* ContainerView.swift in Sources */,
 				CF12327E239E5A5E00FF8F4A /* ArrayExtension.swift in Sources */,
@@ -416,8 +454,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				23944BCF238D7E9300FA216D /* FXWorldCodeTestTests.swift in Sources */,
+				CFC20B61239EBFD700C4F5C6 /* DashboardViewTest.swift in Sources */,
+				CFC20B6B239EC68100C4F5C6 /* MainViewTest.swift in Sources */,
 				CFC20B5D239EBBB600C4F5C6 /* ExtensionsTests.swift in Sources */,
+				CFC20B65239EC06F00C4F5C6 /* MarketsViewTest.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -1,0 +1,45 @@
+{
+    "currencies": [
+        {
+            "displayName": "EUR/USD",
+            "marketId": "EURUSD",
+            "epic": "CS.D.EURUSD.CFD.IP",
+            "rateDetailURL": "https://www.dailyfx.com/eur-usd",
+            "topMarket": true,
+            "unscalingFactor": 10000,
+            "unscaledDecimals": 5,
+            "calendarMapping": [
+                "EUR",
+                "USD"
+            ]
+        }
+    ],
+    "commodities": [
+        {
+            "displayName": "Spot Gold",
+            "marketId": "GC",
+            "epic": "CS.D.CFDGOLD.CFDGC.IP",
+            "rateDetailURL": "https://www.dailyfx.com/gold-price",
+            "topMarket": true,
+            "unscalingFactor": 1,
+            "unscaledDecimals": 2,
+            "calendarMapping": [
+                "USD"
+            ]
+        }
+    ],
+    "indices": [
+        {
+            "displayName": "USDOLLAR",
+            "marketId": "DX",
+            "epic": "CC.D.DX.UNC.IP",
+            "rateDetailURL": "https://www.dailyfx.com/us-dollar-index",
+            "topMarket": false,
+            "unscalingFactor": 100,
+            "unscaledDecimals": 3,
+            "calendarMapping": [
+                "USD"
+            ]
+        }
+    ]
+}

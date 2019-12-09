@@ -4,7 +4,7 @@ final class DashboardDataSource {
     private let network: Network
     private var allNews: AllNews?
     
-    init(networkManager: Network = Network()) {
+    init(networkManager: Network = NetworkManager()) {
         self.network = networkManager
     }
     

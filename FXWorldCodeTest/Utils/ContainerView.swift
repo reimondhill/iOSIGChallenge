@@ -1,11 +1,3 @@
-//
-//  ContainerView.swift
-//  FXWorldCodeTest
-//
-//  Created by Ramon Haro Marques on 09/12/2019.
-//  Copyright © 2019 IG. All rights reserved.
-//
-
 import UIKit
 
 class ContainerView: UIView {
@@ -32,22 +24,4 @@ class ContainerView: UIView {
         
     }
 
-}
-
-extension UIView {
-    var viewControler:UIViewController?{
-        return findViewController()
-    }
-    
-    func findViewController() -> UIViewController? {
-        if let nextResponder = self.next as? UIViewController {
-            return nextResponder
-        }
-        else if let nextResponder = self.next as? UIView {
-            return nextResponder.findViewController()
-        }
-        else {
-            return nil
-        }
-    }
 }

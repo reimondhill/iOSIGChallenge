@@ -1,0 +1,870 @@
+{
+    "breakingNews": null,
+    "topNews": [
+        {
+            "title": "Dow Jones, S&P 500 Short-term Volatility Features Chart Pattern",
+            "url": "https://www.dailyfx.com/forex/technical/home/analysis/spx500/2019/12/09/Dow-Jones-SP-500-Short-term-Volatility-Features-Chart-Patterns-PRtech.html",
+            "description": "Recently volatility in stocks has brought increased short-term price swings that are the verge of having technical patterns in play worth attention as year nears its end.",
+            "content": null,
+            "firstImageUrl": null,
+            "headlineImageUrl": "https://a.c-dn.net/b/0xlNPv/headline_NYSE_13.JPG",
+            "articleImageUrl": null,
+            "backgroundImageUrl": null,
+            "videoType": null,
+            "videoId": null,
+            "videoUrl": null,
+            "videoThumbnail": null,
+            "newsKeywords": null,
+            "authors": [
+                {
+                    "name": "Paul Robinson",
+                    "title": "Currency Strategist",
+                    "bio": "https://www.dailyfx.com/authors/bio/Paul_Robinson",
+                    "email": null,
+                    "phone": null,
+                    "facebook": "https://www.facebook.com/DailyFX",
+                    "twitter": "https://twitter.com/PaulRobinsonFX",
+                    "googleplus": "https://plus.google.com/+dailyfx/posts",
+                    "subscription": null,
+                    "rss": null,
+                    "descriptionLong": "Paul has over 17 years of financial market experience as both an analyst and trader across a wide variety of asset classes &#8211; equities, options, index and commodity futures, FX, and interest rates. His market approach is based on a blend of price behavior analysis and sound risk management techniques. Traders of all experience levels will find Paul&apos;s &apos;process-oriented&apos; style both informative and actionable.",
+                    "descriptionShort": null,
+                    "photo": "https://a.c-dn.net/b/0JNGsF/Paul_Robinson.png"
+                }
+            ],
+            "instruments": [
+                "SPX500",
+                "US30"
+            ],
+            "tags": [
+                "s&p 500",
+                "dow jones"
+            ],
+            "categories": [
+                "forex",
+                "technical",
+                "home",
+                "analysis",
+                "spx500"
+            ],
+            "displayTimestamp": 1575892800000,
+            "lastUpdatedTimestamp": 1575893524317
+        },
+        {
+            "title": "Sterling (GBP) Analysis - GBP/USD Rally Continues on Latest Poll Boost",
+            "url": "https://www.dailyfx.com/forex/market_alert/2019/12/09/Sterling-GBP-Analysis-GBPUSD-Rally-Continues-on-Latest-Poll-Boost.html",
+            "description": "The latest UK opinion polls continue to show the Conservative Party gaining a working majority at Thursday’s election, pushing Sterling ever higher.",
+            "content": null,
+            "firstImageUrl": null,
+            "headlineImageUrl": "https://a.c-dn.net/b/4651s0/headline_BREXIT_BKGD.jpg",
+            "articleImageUrl": null,
+            "backgroundImageUrl": null,
+            "videoType": null,
+            "videoId": null,
+            "videoUrl": null,
+            "videoThumbnail": null,
+            "newsKeywords": "sterling (GBP) analysis, gbp/usd price analysis, Survation poll, general election",
+            "authors": [
+                {
+                    "name": "Nick Cawley",
+                    "title": "Analyst",
+                    "bio": "https://www.dailyfx.com/authors/bio/Nick_Cawley",
+                    "email": null,
+                    "phone": null,
+                    "facebook": null,
+                    "twitter": "https://twitter.com/nickcawley1",
+                    "googleplus": null,
+                    "subscription": null,
+                    "rss": "https://rss.dailyfx.com/feeds/nick_cawley",
+                    "descriptionLong": "Nicholas Cawley has more than 30 years of experience covering a wide range of financial markets and instruments. After nearly two decades of trading and broking a variety of fixed-income products, Nick turned his hand to reporting and analysing macro and micro events in the fixed income and foreign exchange sectors.",
+                    "descriptionShort": "Nicholas Cawley has more than 30 years of experience covering a wide range of financial markets and instruments.",
+                    "photo": "https://a.c-dn.net/b/0nhwIA/Nicholas_Cawley.png"
+                }
+            ],
+            "instruments": [
+                "GBP/USD",
+                "FXU"
+            ],
+            "tags": [
+                "sterling (GBP) analysis",
+                "GBP/USD price analysis",
+                "UK General Election",
+                "Survation Poll"
+            ],
+            "categories": [
+                "forex",
+                "market_alert"
+            ],
+            "displayTimestamp": 1575887400000,
+            "lastUpdatedTimestamp": 1575886996457
+        },
+        {
+            "title": "US Dollar Longs Extended, EUR/USD Sold Sharply, CAD Selling Reverses  - COT Report",
+            "url": "https://www.dailyfx.com/forex/technical/article/cot/2019/12/09/US-Dollar-Longs-Extended-EURUSD-Sold-Sharply-CAD-Selling-Reverses----COT-Report.html",
+            "description": "Weekly changes in G10 FX positioning sees speculative net USD longs extended, while sentiment in the Euro deteriorated sharply. Investors reengage with GBP longs ahead of election.",
+            "content": null,
+            "firstImageUrl": null,
+            "headlineImageUrl": "https://a.c-dn.net/b/199kbq/headline_data5.JPG",
+            "articleImageUrl": null,
+            "backgroundImageUrl": null,
+            "videoType": null,
+            "videoId": null,
+            "videoUrl": null,
+            "videoThumbnail": null,
+            "newsKeywords": "US DOLLAR, EURUSD, GBPUSD, USDCAD, USDJPY, AUDUSD, NZDUSD, COT, CFTC",
+            "authors": [
+                {
+                    "name": "Justin McQueen",
+                    "title": "Analyst",
+                    "bio": "https://www.dailyfx.com/authors/bio/Justin_McQueen",
+                    "email": null,
+                    "phone": null,
+                    "facebook": null,
+                    "twitter": "https://twitter.com/JMcQueenFX",
+                    "googleplus": null,
+                    "subscription": null,
+                    "rss": null,
+                    "descriptionLong": "Justin McQueen is a Market Analyst for DailyFX. He gained a strong understanding of fundamental analysis across multiple asset classes throughout his tenure as a financial news reporter, which entailed examining and analyzing macroeconomic trends in financial markets, predominantly focusing on FX and commodity markets. He holds a bachelor degree in Business Economics from Nottingham Trent University.",
+                    "descriptionShort": null,
+                    "photo": "https://a.c-dn.net/b/07hpRi/Justin_McQueen.png"
+                }
+            ],
+            "instruments": [
+                "AUD",
+                "NZD",
+                "CAD",
+                "GBP",
+                "EUR",
+                "USD",
+                "JPY"
+            ],
+            "tags": [
+                "USD",
+                "EURUSD",
+                "USDCAD",
+                "GBPUSD",
+                "AUDUSD",
+                "NZDUSD",
+                "COT"
+            ],
+            "categories": [
+                "forex",
+                "technical",
+                "article",
+                "cot"
+            ],
+            "displayTimestamp": 1575882900000,
+            "lastUpdatedTimestamp": 1575883773211
+        }
+    ],
+    "dailyBriefings": {
+        "eu": [
+            {
+                "title": "Euro Forecast: On Weak Footing as November Winds Down; No ECB Rate Cuts Due",
+                "url": "https://www.dailyfx.com/forex/fundamental/daily_briefing/daily_pieces/top_fx_headlines/2019/11/27/euro-forecast-on-weak-footing-as-november-winds-down-no-ecb-rate-cuts-due.html",
+                "description": "The Euro has lost modest ground thus far in November, even as ECB rate cut expectations have evaporated for the next 12-months.",
+                "content": null,
+                "firstImageUrl": null,
+                "headlineImageUrl": "https://a.c-dn.net/b/1IUr2n/headline_EURO_&_FLAG_1.JPG",
+                "articleImageUrl": null,
+                "backgroundImageUrl": null,
+                "videoType": null,
+                "videoId": null,
+                "videoUrl": null,
+                "videoThumbnail": null,
+                "newsKeywords": "euro to dollar, euro to yen, eur to jpy, eur to usd, euro, eurozone inflation, eurozone cpi, us-china trade war, ecb rate cut, ecb rate, september ecb meeting, jackson hole, mario draghi, draghi, lagarde, christine lagarde",
+                "authors": [
+                    {
+                        "name": "Christopher Vecchio, CFA",
+                        "title": "Sr. Currency Strategist",
+                        "bio": "https://www.dailyfx.com/authors/bio/Christopher_Vecchio",
+                        "email": "cvecchio@dailyfx.com",
+                        "phone": "(646)432-2817",
+                        "facebook": "http://www.facebook.com/CVecchioFX",
+                        "twitter": "https://twitter.com/cvecchiofx",
+                        "googleplus": "https://plus.google.com/u/0/100856860161398886353/posts",
+                        "subscription": null,
+                        "rss": "https://www.dailyfx.com/feeds/picks_christopher_vecchio",
+                        "descriptionLong": "Christopher Vecchio is a  Currency Analyst for DailyFX.com. He holds a dual Bachelor of Arts degree in Government &amp; Law and Economics from Lafayette College. During his undergraduate program, he gained a strong understanding of fundamental analysis of the foreign exchange markets by examining the interrelationship between geopolitical events, macroeconomic trends, and finance. Christopher also incorporates technical analysis into his research in order paint the most complete picture of what is occurring across various asset classes in the short-term and medium-term.",
+                        "descriptionShort": "Christopher Vecchio is a Currency Analyst who incorporates technical analysis, geopolitical events, and macroeconomic trends to his analysis.",
+                        "photo": "https://a.c-dn.net/b/2SwDd5/Christopher_Vecchio.png"
+                    }
+                ],
+                "instruments": [
+                    "EUR/USD",
+                    "EUR/JPY",
+                    "EUR/GBP",
+                    "EUR/CAD",
+                    "EUR/CHF",
+                    "EUR/AUD",
+                    "EUR/NZD",
+                    "FXE"
+                ],
+                "tags": [
+                    "euro to dollar",
+                    "euro to yen",
+                    "euro",
+                    "negative interest rates",
+                    "lagarde",
+                    "us-china trade war",
+                    "ecb rate cut"
+                ],
+                "categories": [
+                    "forex",
+                    "fundamental",
+                    "daily_briefing",
+                    "daily_pieces",
+                    "top_fx_headlines"
+                ],
+                "displayTimestamp": 1574871300000,
+                "lastUpdatedTimestamp": 1574914431961
+            }
+        ],
+        "asia": [
+            {
+                "title": "Euro, USD May Fall if Trade Wars Inspire ECB, Fed Rate Cuts",
+                "url": "https://www.dailyfx.com/forex/fundamental/daily_briefing/session_briefing/euro_open/2019/12/09/Euro-USD-May-Fall-if-Trade-Wars-Inspire-ECB-Fed-Rate-Cuts.html",
+                "description": "The Euro and US Dollar may fall if escalating US-China and EU-US trade war risks inflame ECB and Fed rate cut bets beyond this week’s rate decisions from both central banks.",
+                "content": null,
+                "firstImageUrl": null,
+                "headlineImageUrl": "https://a.c-dn.net/b/1HaBDt/headline_data2.JPG",
+                "articleImageUrl": null,
+                "backgroundImageUrl": null,
+                "videoType": null,
+                "videoId": null,
+                "videoUrl": null,
+                "videoThumbnail": null,
+                "newsKeywords": "US Dollar, Euro, FOMC, ECB, Trade War",
+                "authors": [
+                    {
+                        "name": "Dimitri Zabelin",
+                        "title": "Junior Currency Analyst",
+                        "bio": "https://www.dailyfx.com/authors/bio/Dimitri_Zabelin",
+                        "email": null,
+                        "phone": null,
+                        "facebook": null,
+                        "twitter": "https://twitter.com/ZabelinDimitri",
+                        "googleplus": null,
+                        "subscription": null,
+                        "rss": null,
+                        "descriptionLong": "Dimitri Zabelin is a Junior Currency Analyst for DailyFX.com. He specializes in how international political economy affects financial markets and focuses on geopolitical shifts that impact various asset classes. In addition to attending the London School of Economics and serving as a Consortium Fellow at Harvard, Dimitri holds bachelor&apos;s and master&apos;s degrees in Global Political Economy from the University of California, Berkeley.",
+                        "descriptionShort": null,
+                        "photo": "https://a.c-dn.net/b/3FUkqI/Dimitri_Zabelin.png"
+                    }
+                ],
+                "instruments": [
+                    "EUR/USD",
+                    "GBP/USD",
+                    "EUR/GBP",
+                    "AUD/USD",
+                    "EUR/CHF",
+                    "NZD/USD",
+                    "EUR/JPY"
+                ],
+                "tags": [
+                    "eur-usd",
+                    "gbp-usd",
+                    "eur-gbp",
+                    "aud-usd",
+                    "eur-chf",
+                    "nzd-usd",
+                    "eur-jpy"
+                ],
+                "categories": [
+                    "forex",
+                    "fundamental",
+                    "daily_briefing",
+                    "session_briefing",
+                    "euro_open"
+                ],
+                "displayTimestamp": 1575878400000,
+                "lastUpdatedTimestamp": 1575862658191
+            }
+        ],
+        "us": [
+            {
+                "title": "US Dollar After NFP: GBP/USD, USD/CAD Testing Key Chart Levels",
+                "url": "https://www.dailyfx.com/forex/fundamental/daily_briefing/session_briefing/daily_fundamentals/2019/12/06/US-Dollar-usd-after-NFP-gbpusd-usdcad-testing-key-levels-js56.html",
+                "description": "This morning's blowout NFP report squeezed USD bears. Is this but a blip in a bearish radar or the start of a whole new trend?",
+                "content": null,
+                "firstImageUrl": null,
+                "headlineImageUrl": "https://a.c-dn.net/b/3geGfx/headline_100_dollar_bill.JPG",
+                "articleImageUrl": null,
+                "backgroundImageUrl": null,
+                "videoType": null,
+                "videoId": null,
+                "videoUrl": null,
+                "videoThumbnail": null,
+                "newsKeywords": null,
+                "authors": [
+                    {
+                        "name": "James Stanley",
+                        "title": "Currency Strategist",
+                        "bio": "https://www.dailyfx.com/authors/bio/James_Stanley",
+                        "email": "jstanley@dailyfx.com",
+                        "phone": null,
+                        "facebook": null,
+                        "twitter": "https://twitter.com/JStanleyFX",
+                        "googleplus": "https://plus.google.com/u/0/101780673289329325248/posts",
+                        "subscription": null,
+                        "rss": "https://www.dailyfx.com/feeds/james_stanley",
+                        "descriptionLong": "James Stanley is an Active Trader, and Trading Instructor at DailyFX.  James began trading equities and options in 1999 during one of the greatest bull markets of all-time.  As the tech boom became the tech bust, James hybridized his short-term trading approach to include Swing-Trading, and Algorithmic system design.  James has further developed and refined his approach while working for some of the largest banks and brokerage houses in the United States. James is graduate of Hankamer School of Business at Baylor University.",
+                        "descriptionShort": null,
+                        "photo": "https://a.c-dn.net/b/4hZZJu/James_Stanley.png"
+                    }
+                ],
+                "instruments": [
+                    "USD",
+                    "USD/CAD",
+                    "GBP/USD",
+                    "USDOLLAR"
+                ],
+                "tags": [
+                    "us dollar",
+                    "usd",
+                    "gbp/usd",
+                    "usd/cad",
+                    "price action",
+                    "forex"
+                ],
+                "categories": [
+                    "forex",
+                    "fundamental",
+                    "daily_briefing",
+                    "session_briefing",
+                    "daily_fundamentals"
+                ],
+                "displayTimestamp": 1575644400000,
+                "lastUpdatedTimestamp": 1575644442547
+            }
+        ]
+    },
+    "technicalAnalysis": [
+        {
+            "title": "Gold Buying Resumes, Silver Prices Underperform Gold, Oil Bulls Ease - COT Report",
+            "url": "https://www.dailyfx.com/forex/technical/article/cot/2019/12/09/Gold-Buying-Resumes-Silver-Prices-Underperform-Gold-Oil-Bulls-Ease---COT-Report.html",
+            "description": "Initial buying in Gold on safety flows, while Silver underperforms. Oil bulls ease slightly, however, OPEC cuts puts floor on prices. Copper outlook remains weak.",
+            "content": null,
+            "firstImageUrl": null,
+            "headlineImageUrl": "https://a.c-dn.net/b/0UaMVp/headline_GOLD_27.JPG",
+            "articleImageUrl": null,
+            "backgroundImageUrl": null,
+            "videoType": null,
+            "videoId": null,
+            "videoUrl": null,
+            "videoThumbnail": null,
+            "newsKeywords": "GOLD, SILVER, COPPER, OIL",
+            "authors": [
+                {
+                    "name": "Justin McQueen",
+                    "title": "Analyst",
+                    "bio": "https://www.dailyfx.com/authors/bio/Justin_McQueen",
+                    "email": null,
+                    "phone": null,
+                    "facebook": null,
+                    "twitter": "https://twitter.com/JMcQueenFX",
+                    "googleplus": null,
+                    "subscription": null,
+                    "rss": null,
+                    "descriptionLong": "Justin McQueen is a Market Analyst for DailyFX. He gained a strong understanding of fundamental analysis across multiple asset classes throughout his tenure as a financial news reporter, which entailed examining and analyzing macroeconomic trends in financial markets, predominantly focusing on FX and commodity markets. He holds a bachelor degree in Business Economics from Nottingham Trent University.",
+                    "descriptionShort": null,
+                    "photo": "https://a.c-dn.net/b/07hpRi/Justin_McQueen.png"
+                }
+            ],
+            "instruments": [
+                "GOLD",
+                "SILVER",
+                "COPPER",
+                "OIL"
+            ],
+            "tags": [
+                "GOLD",
+                "OIL",
+                "COPPER",
+                "SILVER"
+            ],
+            "categories": [
+                "forex",
+                "technical",
+                "article",
+                "cot"
+            ],
+            "displayTimestamp": 1575892800000,
+            "lastUpdatedTimestamp": 1575894048820
+        },
+        {
+            "title": "Dow Jones, S&P 500 Short-term Volatility Features Chart Pattern",
+            "url": "https://www.dailyfx.com/forex/technical/home/analysis/spx500/2019/12/09/Dow-Jones-SP-500-Short-term-Volatility-Features-Chart-Patterns-PRtech.html",
+            "description": "Recently volatility in stocks has brought increased short-term price swings that are the verge of having technical patterns in play worth attention as year nears its end.",
+            "content": null,
+            "firstImageUrl": null,
+            "headlineImageUrl": "https://a.c-dn.net/b/0xlNPv/headline_NYSE_13.JPG",
+            "articleImageUrl": null,
+            "backgroundImageUrl": null,
+            "videoType": null,
+            "videoId": null,
+            "videoUrl": null,
+            "videoThumbnail": null,
+            "newsKeywords": null,
+            "authors": [
+                {
+                    "name": "Paul Robinson",
+                    "title": "Currency Strategist",
+                    "bio": "https://www.dailyfx.com/authors/bio/Paul_Robinson",
+                    "email": null,
+                    "phone": null,
+                    "facebook": "https://www.facebook.com/DailyFX",
+                    "twitter": "https://twitter.com/PaulRobinsonFX",
+                    "googleplus": "https://plus.google.com/+dailyfx/posts",
+                    "subscription": null,
+                    "rss": null,
+                    "descriptionLong": "Paul has over 17 years of financial market experience as both an analyst and trader across a wide variety of asset classes &#8211; equities, options, index and commodity futures, FX, and interest rates. His market approach is based on a blend of price behavior analysis and sound risk management techniques. Traders of all experience levels will find Paul&apos;s &apos;process-oriented&apos; style both informative and actionable.",
+                    "descriptionShort": null,
+                    "photo": "https://a.c-dn.net/b/0JNGsF/Paul_Robinson.png"
+                }
+            ],
+            "instruments": [
+                "SPX500",
+                "US30"
+            ],
+            "tags": [
+                "s&p 500",
+                "dow jones"
+            ],
+            "categories": [
+                "forex",
+                "technical",
+                "home",
+                "analysis",
+                "spx500"
+            ],
+            "displayTimestamp": 1575892800000,
+            "lastUpdatedTimestamp": 1575893524317
+        },
+        {
+            "title": "EUR/USD Breakout Levels Could End Consolidation - Euro to USD Technical Analysis  ",
+            "url": "https://www.dailyfx.com/forex/technical/home/analysis/eur-usd/2019/12/09/EURUSD-Breakout-Levels-to-End-Consolidation--Euro-to-USD-Technical-Analysis--MK.html",
+            "description": "Last week, EUR/USD U turned then traded in a sideways move. Here are the key technical levels traders need to keep in focus if they want to move the price in a clear direction.",
+            "content": null,
+            "firstImageUrl": null,
+            "headlineImageUrl": "https://a.c-dn.net/b/2iijTi/headline_21246581_H1240391.JPG",
+            "articleImageUrl": null,
+            "backgroundImageUrl": null,
+            "videoType": null,
+            "videoId": null,
+            "videoUrl": null,
+            "videoThumbnail": null,
+            "newsKeywords": "EUR/USD price. EUR/USD outlook. EUR/USD forecast. EUR/USD chart. EUR/USD",
+            "authors": [
+                {
+                    "name": "Mahmoud Alkudsi",
+                    "title": "Market Analyst",
+                    "bio": "https://www.dailyfx.com/authors/bio/Mahmoud_Alkudsi",
+                    "email": null,
+                    "phone": null,
+                    "facebook": null,
+                    "twitter": "https://twitter.com/malkudsi",
+                    "googleplus": null,
+                    "subscription": null,
+                    "rss": null,
+                    "descriptionLong": "Mahmoud Alkudsi is a market analyst with DailyFX. Mahmoud holds a Master of Business Administration from Cardiff Metropolitan University of Wales, UK. Since 2011, Mahmoud has been active in currency and commodities markets. He is a mix of fundamental and technical trader following economic trends defining the larger themes, then using support and resistance on charts to time entries.",
+                    "descriptionShort": null,
+                    "photo": "https://a.c-dn.net/b/09Qi0X/Mahmoud_Alkudsi.png"
+                }
+            ],
+            "instruments": [
+                "EUR/USD"
+            ],
+            "tags": [
+                "EUR/USD",
+                "EURUSD",
+                "Euro to US Dollar",
+                "EUR vs USD"
+            ],
+            "categories": [
+                "forex",
+                "technical",
+                "home",
+                "analysis",
+                "eur-usd"
+            ],
+            "displayTimestamp": 1575887400000,
+            "lastUpdatedTimestamp": 1575887870454
+        },
+        {
+            "title": "US Dollar Longs Extended, EUR/USD Sold Sharply, CAD Selling Reverses  - COT Report",
+            "url": "https://www.dailyfx.com/forex/technical/article/cot/2019/12/09/US-Dollar-Longs-Extended-EURUSD-Sold-Sharply-CAD-Selling-Reverses----COT-Report.html",
+            "description": "Weekly changes in G10 FX positioning sees speculative net USD longs extended, while sentiment in the Euro deteriorated sharply. Investors reengage with GBP longs ahead of election.",
+            "content": null,
+            "firstImageUrl": null,
+            "headlineImageUrl": "https://a.c-dn.net/b/199kbq/headline_data5.JPG",
+            "articleImageUrl": null,
+            "backgroundImageUrl": null,
+            "videoType": null,
+            "videoId": null,
+            "videoUrl": null,
+            "videoThumbnail": null,
+            "newsKeywords": "US DOLLAR, EURUSD, GBPUSD, USDCAD, USDJPY, AUDUSD, NZDUSD, COT, CFTC",
+            "authors": [
+                {
+                    "name": "Justin McQueen",
+                    "title": "Analyst",
+                    "bio": "https://www.dailyfx.com/authors/bio/Justin_McQueen",
+                    "email": null,
+                    "phone": null,
+                    "facebook": null,
+                    "twitter": "https://twitter.com/JMcQueenFX",
+                    "googleplus": null,
+                    "subscription": null,
+                    "rss": null,
+                    "descriptionLong": "Justin McQueen is a Market Analyst for DailyFX. He gained a strong understanding of fundamental analysis across multiple asset classes throughout his tenure as a financial news reporter, which entailed examining and analyzing macroeconomic trends in financial markets, predominantly focusing on FX and commodity markets. He holds a bachelor degree in Business Economics from Nottingham Trent University.",
+                    "descriptionShort": null,
+                    "photo": "https://a.c-dn.net/b/07hpRi/Justin_McQueen.png"
+                }
+            ],
+            "instruments": [
+                "AUD",
+                "NZD",
+                "CAD",
+                "GBP",
+                "EUR",
+                "USD",
+                "JPY"
+            ],
+            "tags": [
+                "USD",
+                "EURUSD",
+                "USDCAD",
+                "GBPUSD",
+                "AUDUSD",
+                "NZDUSD",
+                "COT"
+            ],
+            "categories": [
+                "forex",
+                "technical",
+                "article",
+                "cot"
+            ],
+            "displayTimestamp": 1575882900000,
+            "lastUpdatedTimestamp": 1575883773211
+        },
+        {
+            "title": "EUR/USD Technical Analysis: Euro Sellers Back in Control?",
+            "url": "https://www.dailyfx.com/forex/technical/home/analysis/eur-usd/2019/12/09/EURUSD-Technical-Analysis-Euro-Sellers-Back-in-Control.html",
+            "description": "The Euro snapped downward to overturn a would-be bullish breakout, signaling that sellers have reclaimed the initiative. Will they follow through this time?",
+            "content": null,
+            "firstImageUrl": null,
+            "headlineImageUrl": "https://a.c-dn.net/b/0IMvOy/headline_21246581_H1223926.JPG",
+            "articleImageUrl": null,
+            "backgroundImageUrl": null,
+            "videoType": null,
+            "videoId": null,
+            "videoUrl": null,
+            "videoThumbnail": null,
+            "newsKeywords": "eurusd, eur/usd, euro, technical analysis",
+            "authors": [
+                {
+                    "name": "Ilya Spivak",
+                    "title": "Sr. Currency Strategist",
+                    "bio": "https://www.dailyfx.com/authors/bio/Ilya_Spivak",
+                    "email": "ispivak@dailyfx.com",
+                    "phone": "(415)310-0931",
+                    "facebook": "http://www.facebook.com/IlyaSpivakFX",
+                    "twitter": "https://twitter.com/ilyaspivak",
+                    "googleplus": "https://plus.google.com/u/0/115742534244610991431/posts",
+                    "subscription": null,
+                    "rss": "https://www.dailyfx.com/feeds/picks_ilya_spivak",
+                    "descriptionLong": "Ilya Spivak is a Currency Strategist for DailyFX, where he applies a top-down, global macro approach to longer-term investing in the G10 currencies. Ilya has headlined seminars on FX trading around the world and his research is regularly cited in leading publications including the Wall Street Journal, MarketWatch, CNN Money and Reuters. He holds degrees in Economics and International Relations from the University of California.",
+                    "descriptionShort": "Ilya Spivak is a Currency Strategist. Ilya applies a top-down, global macro approach to longer-term investing in the G10 currencies.",
+                    "photo": "https://a.c-dn.net/b/1bHsQc/Ilya_Spivak.png"
+                }
+            ],
+            "instruments": [
+                "EUR/USD"
+            ],
+            "tags": [
+                "eur-usd"
+            ],
+            "categories": [
+                "forex",
+                "technical",
+                "home",
+                "analysis",
+                "eur-usd"
+            ],
+            "displayTimestamp": 1575853200000,
+            "lastUpdatedTimestamp": 1575856565318
+        }
+    ],
+    "specialReport": [
+        {
+            "title": "British Pound, USD, NOK May Rise on FOMC, ECB and UK Election",
+            "url": "https://www.dailyfx.com/forex/fundamental/article/special_report/2019/12/09/British-Pound-USD-NOK-May-Rise-on-FOMC-ECB-and-UK-Election.html",
+            "description": "The US Dollar may rise on the FOMC rate decision, while the British Pound, Swedish Krona and Norwegian Krone may gain on the UK election and ECB outlook.",
+            "content": null,
+            "firstImageUrl": null,
+            "headlineImageUrl": "https://a.c-dn.net/b/2XfxHS/headline_21246581_H1240371.JPG",
+            "articleImageUrl": null,
+            "backgroundImageUrl": null,
+            "videoType": null,
+            "videoId": null,
+            "videoUrl": null,
+            "videoThumbnail": null,
+            "newsKeywords": "US Dollar, Euro, Swedish Krona, Norwegian Krone, Crude Oil, FOMC, ECB",
+            "authors": [
+                {
+                    "name": "Dimitri Zabelin",
+                    "title": "Junior Currency Analyst",
+                    "bio": "https://www.dailyfx.com/authors/bio/Dimitri_Zabelin",
+                    "email": null,
+                    "phone": null,
+                    "facebook": null,
+                    "twitter": "https://twitter.com/ZabelinDimitri",
+                    "googleplus": null,
+                    "subscription": null,
+                    "rss": null,
+                    "descriptionLong": "Dimitri Zabelin is a Junior Currency Analyst for DailyFX.com. He specializes in how international political economy affects financial markets and focuses on geopolitical shifts that impact various asset classes. In addition to attending the London School of Economics and serving as a Consortium Fellow at Harvard, Dimitri holds bachelor&apos;s and master&apos;s degrees in Global Political Economy from the University of California, Berkeley.",
+                    "descriptionShort": null,
+                    "photo": "https://a.c-dn.net/b/3FUkqI/Dimitri_Zabelin.png"
+                }
+            ],
+            "instruments": [
+                "EUR/USD",
+                "USD/NOK",
+                "USD/SEK",
+                "OIL",
+                "EUR/CHF",
+                "AUD/USD",
+                "GBP/USD"
+            ],
+            "tags": [
+                "eur-usd",
+                "usd-nok",
+                "usd-sek",
+                "crude-oil",
+                "eur-chf",
+                "aud-usd",
+                "gbp-usd"
+            ],
+            "categories": [
+                "forex",
+                "fundamental",
+                "article",
+                "special_report"
+            ],
+            "displayTimestamp": 1575867600000,
+            "lastUpdatedTimestamp": 1575862465378
+        },
+        {
+            "title": "US Dollar Outlook Bullish on SGD, PHP, MYR, INR. Trade Wars Heat Up",
+            "url": "https://www.dailyfx.com/forex/fundamental/article/special_report/2019/12/09/US-Dollar-Forecast-PHP-INR-SGD-MYR-Eye-Fed-and-Trade-News.html",
+            "description": "After a dismal week for the US Dollar, SGD, PHP, IDR and MYR turn their focus to the Federal Reserve. USD/PHP is also awaiting the BSP rate decision as USD/INR eyes Indian CPI data.",
+            "content": null,
+            "firstImageUrl": null,
+            "headlineImageUrl": "https://a.c-dn.net/b/3geGfx/headline_100_dollar_bill.JPG",
+            "articleImageUrl": null,
+            "backgroundImageUrl": null,
+            "videoType": null,
+            "videoId": null,
+            "videoUrl": null,
+            "videoThumbnail": null,
+            "newsKeywords": "US Dollar, USD/PHP, USD/SGD, USD/INR, USD/MYR, Fed",
+            "authors": [
+                {
+                    "name": "Daniel Dubrovsky",
+                    "title": "Analyst",
+                    "bio": "https://www.dailyfx.com/authors/bio/Daniel_Dubrovsky",
+                    "email": null,
+                    "phone": null,
+                    "facebook": null,
+                    "twitter": "https://twitter.com/ddubrovskyFX",
+                    "googleplus": null,
+                    "subscription": null,
+                    "rss": null,
+                    "descriptionLong": "Daniel Dubrovsky joined DailyFX as a Junior Currency Analyst after contributing market insights for over three years while still a student. He focuses on using classic technical analysis to tactically trade around macro fundamental and economic themes. He holds degrees in Economics and Business Administration from San Francisco State University.",
+                    "descriptionShort": null,
+                    "photo": "https://a.c-dn.net/b/19uhRD/Daniel_Dubrovsky.png"
+                }
+            ],
+            "instruments": [
+                "USDOLLAR",
+                "USD/SGD"
+            ],
+            "tags": [
+                "us-dollar-index",
+                "usd-sgd"
+            ],
+            "categories": [
+                "forex",
+                "fundamental",
+                "article",
+                "special_report"
+            ],
+            "displayTimestamp": 1575864000000,
+            "lastUpdatedTimestamp": 1575852828808
+        },
+        {
+            "title": "How to Trade the Impact of Politics on Global Financial Markets",
+            "url": "https://www.dailyfx.com/forex/fundamental/article/special_report/2019/10/01/How-to-Trade-the-Impact-of-Politics-on-Global-Financial-Markets.html",
+            "description": "As the global economy continues to contract, the risk of geopolitical threats undermining financial and economic stability are rising, leaving the door open to violent volatility – and trading opportunities.",
+            "content": null,
+            "firstImageUrl": null,
+            "headlineImageUrl": "https://a.c-dn.net/b/43dsl0/headline_Generic_ballotbox.jpg",
+            "articleImageUrl": null,
+            "backgroundImageUrl": null,
+            "videoType": null,
+            "videoId": null,
+            "videoUrl": null,
+            "videoThumbnail": null,
+            "newsKeywords": "Political risks in 2019, Eurozone debt crisis, US recession, India-US trade war, Pension Reforms",
+            "authors": [
+                {
+                    "name": "Dimitri Zabelin",
+                    "title": "Junior Currency Analyst",
+                    "bio": "https://www.dailyfx.com/authors/bio/Dimitri_Zabelin",
+                    "email": null,
+                    "phone": null,
+                    "facebook": null,
+                    "twitter": "https://twitter.com/ZabelinDimitri",
+                    "googleplus": null,
+                    "subscription": null,
+                    "rss": null,
+                    "descriptionLong": "Dimitri Zabelin is a Junior Currency Analyst for DailyFX.com. He specializes in how international political economy affects financial markets and focuses on geopolitical shifts that impact various asset classes. In addition to attending the London School of Economics and serving as a Consortium Fellow at Harvard, Dimitri holds bachelor&apos;s and master&apos;s degrees in Global Political Economy from the University of California, Berkeley.",
+                    "descriptionShort": null,
+                    "photo": "https://a.c-dn.net/b/3FUkqI/Dimitri_Zabelin.png"
+                }
+            ],
+            "instruments": [
+                "EUR/CHF",
+                "EUR/USD",
+                "USD/INR"
+            ],
+            "tags": [
+                "usd-inr",
+                "usd-brl",
+                "eur-usd",
+                "eur-chf"
+            ],
+            "categories": [
+                "forex",
+                "fundamental",
+                "article",
+                "special_report"
+            ],
+            "displayTimestamp": 1575860400000,
+            "lastUpdatedTimestamp": 1575852987068
+        },
+        {
+            "title": "Stock Market December Forecast: Trade War Headlines to Stoke Volatility",
+            "url": "https://www.dailyfx.com/forex/fundamental/article/special_report/2019/12/06/Stock-Market-December-Forecast-Trade-War-Headlines-to-Stoke-Volatility.html",
+            "description": "The stock market outlook for December is highly contingent on trade war developments, but history suggests the month is no stranger to volatility regardless of the event risk at hand.",
+            "content": null,
+            "firstImageUrl": null,
+            "headlineImageUrl": "https://a.c-dn.net/b/196gJy/headline_MERCANTILE_EXCHANGE_08.jpg",
+            "articleImageUrl": null,
+            "backgroundImageUrl": null,
+            "videoType": null,
+            "videoId": null,
+            "videoUrl": null,
+            "videoThumbnail": null,
+            "newsKeywords": "dow jones, nasdaq, S&P 500, volatility, vix, stock market, crash",
+            "authors": [
+                {
+                    "name": "Peter Hanks",
+                    "title": "Junior Analyst",
+                    "bio": "https://www.dailyfx.com/authors/bio/Peter_Hanks",
+                    "email": "peter.hanks@ig.com",
+                    "phone": null,
+                    "facebook": null,
+                    "twitter": "https://twitter.com/PeterHanksFX",
+                    "googleplus": null,
+                    "subscription": null,
+                    "rss": null,
+                    "descriptionLong": "Peter Hanks joined DailyFX as Junior Analyst after contributing market insights while still a student at Loyola University Chicago where he received his degrees in Finance and Computer Science. He focuses on using fundamental analysis to trade around macroeconomic themes and utilizes technical analysis for entry and exit points.",
+                    "descriptionShort": null,
+                    "photo": "https://a.c-dn.net/b/44C8qZ/Peter_Hanks.png"
+                }
+            ],
+            "instruments": [
+                "NAS100",
+                "US30",
+                "SPX500"
+            ],
+            "tags": [
+                "Dow Jones",
+                "S&P 500",
+                "Nasdaq "
+            ],
+            "categories": [
+                "forex",
+                "fundamental",
+                "article",
+                "special_report"
+            ],
+            "displayTimestamp": 1575649800000,
+            "lastUpdatedTimestamp": 1575644267042
+        },
+        {
+            "title": "China Makes a Bet Against the US Dollar as World Reserve Currency",
+            "url": "https://www.dailyfx.com/forex/fundamental/article/special_report/2019/11/29/china-makes-a-bet-against-the-us-dollar-as-world-reserve-currency.html",
+            "description": "There’s a significant reason why China has been issuing debt denominated in US Dollars.",
+            "content": null,
+            "firstImageUrl": null,
+            "headlineImageUrl": "https://a.c-dn.net/b/3geGfx/headline_100_dollar_bill.JPG",
+            "articleImageUrl": null,
+            "backgroundImageUrl": null,
+            "videoType": null,
+            "videoId": null,
+            "videoUrl": null,
+            "videoThumbnail": null,
+            "newsKeywords": "us-china trade war, phase 1 deal, dxy price forecast, dxy technical analysis, dxy price chart, dxy chart, dxy price, usd rate forecast, usd rate, cnh rate",
+            "authors": [
+                {
+                    "name": "Christopher Vecchio, CFA",
+                    "title": "Sr. Currency Strategist",
+                    "bio": "https://www.dailyfx.com/authors/bio/Christopher_Vecchio",
+                    "email": "cvecchio@dailyfx.com",
+                    "phone": "(646)432-2817",
+                    "facebook": "http://www.facebook.com/CVecchioFX",
+                    "twitter": "https://twitter.com/cvecchiofx",
+                    "googleplus": "https://plus.google.com/u/0/100856860161398886353/posts",
+                    "subscription": null,
+                    "rss": "https://www.dailyfx.com/feeds/picks_christopher_vecchio",
+                    "descriptionLong": "Christopher Vecchio is a  Currency Analyst for DailyFX.com. He holds a dual Bachelor of Arts degree in Government &amp; Law and Economics from Lafayette College. During his undergraduate program, he gained a strong understanding of fundamental analysis of the foreign exchange markets by examining the interrelationship between geopolitical events, macroeconomic trends, and finance. Christopher also incorporates technical analysis into his research in order paint the most complete picture of what is occurring across various asset classes in the short-term and medium-term.",
+                    "descriptionShort": "Christopher Vecchio is a Currency Analyst who incorporates technical analysis, geopolitical events, and macroeconomic trends to his analysis.",
+                    "photo": "https://a.c-dn.net/b/2SwDd5/Christopher_Vecchio.png"
+                }
+            ],
+            "instruments": [
+                "GBP/USD",
+                "USD/JPY",
+                "EUR/USD",
+                "USD/JPY",
+                "USD",
+                "FOMC",
+                "USD/CNH",
+                "UUP",
+                "SPY",
+                "FXE"
+            ],
+            "tags": [
+                "Bretton Woods",
+                "US-China trade war",
+                "US Dollar hegemony",
+                "One Belt One Road",
+                "China dollar debt",
+                "China USD debt",
+                "Phase 1 trade deal"
+            ],
+            "categories": [
+                "forex",
+                "fundamental",
+                "article",
+                "special_report"
+            ],
+            "displayTimestamp": 1575644400000,
+            "lastUpdatedTimestamp": 1575648797497
+        }
+    ]
+}

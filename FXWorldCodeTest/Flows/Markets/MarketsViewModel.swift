@@ -1,11 +1,3 @@
-//
-//  MarketsViewModel.swift
-//  FXWorldCodeTest
-//
-//  Created by Ramon Haro Marques on 09/12/2019.
-//  Copyright © 2019 IG. All rights reserved.
-//
-
 import Foundation
 
 protocol MarketsDelegate: class {
@@ -16,7 +8,7 @@ protocol MarketsDelegate: class {
 final class MarketsViewModel {
     weak var delegate: MarketsDelegate?
     
-    private var markets: [[Market]] = [[]]
+    var markets: [[Market]] = [[]]
     private let dataSource: MarketsDataSource
     
     init(dataSource: MarketsDataSource) {
@@ -57,19 +49,20 @@ extension MarketsViewModel {
         dataSource.loadMarketsdData { [weak self] result in
             guard let strongSelf = self else { return }
             
-            DispatchQueue.main.async {
-                switch result {
-                case .success(let marketsResponse):
-                    var markets = [[Market]]()
-                    markets.append(marketsResponse.currencies)
-                    markets.append(marketsResponse.commodities)
-                    markets.append(marketsResponse.indices)
-                    strongSelf.markets = markets
+            switch result {
+            case .success(let marketsResponse):
+                var markets = [[Market]]()
+                markets.append(marketsResponse.currencies)
+                markets.append(marketsResponse.commodities)
+                markets.append(marketsResponse.indices)
+                strongSelf.markets = markets
+                
+                DispatchQueue.main.async {
                     strongSelf.delegate?.marketsViewModelDidUpdate()
-                    
-                case .failure(let error):
-                    strongSelf.delegate?.marketsViewModel(didReceiveError: error.localizedDescription)
                 }
+                
+            case .failure(let error):
+                strongSelf.delegate?.marketsViewModel(didReceiveError: error.localizedDescription)
             }
             
         }

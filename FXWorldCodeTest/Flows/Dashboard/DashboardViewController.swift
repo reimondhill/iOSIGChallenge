@@ -1,11 +1,3 @@
-//
-//  NewsViewController.swift
-//  FXWorldCodeTest
-//
-//  Created by Ramon Haro Marques on 09/12/2019.
-//  Copyright © 2019 IG. All rights reserved.
-//
-
 import UIKit
 
 class DashboardViewController: UIViewController {
@@ -86,7 +78,7 @@ private extension DashboardViewController {
 
     func updateStackView(with strings: [String]) {
         stackView.removeAllArrangedSubviews()
-        for (i, text) in strings.enumerated(){
+        for (i, text) in strings.enumerated() {
             let label = UILabel()
             label.numberOfLines = 0
             label.text = text

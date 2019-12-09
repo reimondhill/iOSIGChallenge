@@ -1,4 +1,3 @@
-
 import UIKit
 
 class MainViewController: UIViewController {
@@ -21,10 +20,8 @@ class MainViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        
-        view.backgroundColor = .white
-        viewModel.currentIndex = dashboardSelector.selectedSegmentIndex
-        
+
+        setupView()
     }
     
 }
@@ -33,6 +30,20 @@ class MainViewController: UIViewController {
 extension MainViewController: MainViewDelegate {
     func mainViewModel(currentIndexDidChange index: Int) {
         containerView.displayContent(for: viewModel.getCurrentViewController())
+    }
+}
+
+private extension MainViewController {
+    func setupView() {
+        view.backgroundColor = .white
+        
+        dashboardSelector.removeAllSegments()
+        for i in 0 ..< viewModel.numberOfTitle() {
+            dashboardSelector.insertSegment(withTitle: viewModel.getTitle(for: i), at: i, animated: false)
+        }
+        
+        dashboardSelector.selectedSegmentIndex = 0
+        viewModel.currentIndex = dashboardSelector.selectedSegmentIndex
     }
 }
 

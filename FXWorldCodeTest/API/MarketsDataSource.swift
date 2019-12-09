@@ -4,7 +4,7 @@ final class MarketsDataSource {
     private let network: Network
     private var marketsResponse: MarketsResponse?
     
-    init(networkManager: Network = Network()) {
+    init(networkManager: Network = NetworkManager()) {
         self.network = networkManager
     }
     

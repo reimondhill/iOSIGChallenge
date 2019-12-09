@@ -14,7 +14,12 @@ enum NetworkError: Error {
     case unknown(Error?)
 }
 
-final class Network {
+protocol Network {
+    func fetchModel<T: Decodable>(endpoint: Endpoint, completion: @escaping (Result<
+    T, NetworkError>) -> Void)
+}
+
+final class NetworkManager: Network {
     private let session: URLSession
     
     init(session: URLSession = .shared) {

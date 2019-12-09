@@ -1,11 +1,3 @@
-//
-//  NewsViewModel.swift
-//  FXWorldCodeTest
-//
-//  Created by Ramon Haro Marques on 09/12/2019.
-//  Copyright © 2019 IG. All rights reserved.
-//
-
 import Foundation
 
 protocol DashboardDelegate: class {
@@ -79,10 +71,14 @@ extension DashboardViewModel {
             switch result {
             case .success(let dashboardData):
                 self?.news = dashboardData
-                self?.delegate?.didUpdateArticles()
+                DispatchQueue.main.async {
+                    self?.delegate?.didUpdateArticles()
+                }
                 
             case .failure(let error):
-                self?.delegate?.didReceiveError(message: error.localizedDescription)
+                DispatchQueue.main.async {
+                    self?.delegate?.didReceiveError(message: error.localizedDescription)
+                }
             }
         }
     }
