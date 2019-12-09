@@ -9,7 +9,7 @@ final class FXWorldCoordinator: Coordinator {
     }
     
     func start() {
-        window?.rootViewController = dashboardViewController
+        window?.rootViewController = mainViewController
         window?.makeKeyAndVisible()
     }
     
@@ -23,11 +23,10 @@ final class FXWorldCoordinator: Coordinator {
                        completion: nil)
     }
     
-    private var dashboardViewController: DashboardViewController {
-        let vc = instantiateViewController(storyboardName: "Dashboard") as DashboardViewController
-        vc.viewModel = DashboardViewModel(
-            dashboardDataSource: DashboardDataSource(networkManager: Network())
-        )
+    private var mainViewController: MainViewController {
+        let vc = instantiateViewController(storyboardName: "Main") as MainViewController
+        vc.viewModel = MainViewModel(networkManager: Network())
         return vc
     }
+    
 }
