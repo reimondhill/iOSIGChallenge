@@ -29,6 +29,7 @@ final class Network {
             return
         }
         
+        print("Fetching from: ", url.absoluteString)
         session.dataTask(with: url) { data, response, error in
             if let error = error {
                 completion(.failure(.unknown(error)))

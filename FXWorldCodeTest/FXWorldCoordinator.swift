@@ -1,6 +1,7 @@
 import UIKit
 
 final class FXWorldCoordinator: Coordinator {
+    
     let window: UIWindow?
     
     init(window: UIWindow?) {
@@ -10,6 +11,16 @@ final class FXWorldCoordinator: Coordinator {
     func start() {
         window?.rootViewController = dashboardViewController
         window?.makeKeyAndVisible()
+    }
+    
+    func present(viewController: UIViewController, from sender: UIViewController) {
+        
+    }
+    
+    func presentSFSafariViewController(url: URL, from sender: UIViewController) {
+        sender.present(instantiateSFSafariViewController(url: url),
+                       animated: true,
+                       completion: nil)
     }
     
     private var dashboardViewController: DashboardViewController {

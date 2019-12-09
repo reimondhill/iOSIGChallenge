@@ -38,6 +38,34 @@ extension DashboardViewModel {
         }
     }
     
+    /// Returns topNews, technicalAnalysis and specialReport Articles from AllNewsResponse
+    func getAllArticles() -> [Article] {
+        guard let news = news else {
+            return []
+        }
+        var articles: [Article] = []
+        
+        articles.append(contentsOf: news.topNews)
+        articles.append(contentsOf: news.technicalAnalysis)
+        articles.append(contentsOf: news.specialReport)
+        
+        return articles
+    }
+    
+    /// From getAllArticles() returns the URL for an specific article
+    func getArticleURL(at index: Int) -> URL? {
+        return URL(string: getAllArticles()[safeIndex: index]?.url ?? "")
+    }
+    
+    /// Returns all the daily briefings from news response
+    func getDailyBriefings() -> DailyBriefings? {
+        guard let news = news else {
+            return nil
+        }
+        
+        return news.dailyBriefings
+    }
+    
     func fetchAllArticles() {
         dataSource.loadDashboardData { [weak self] result in
             switch result {
@@ -50,4 +78,5 @@ extension DashboardViewModel {
             }
         }
     }
+    
 }

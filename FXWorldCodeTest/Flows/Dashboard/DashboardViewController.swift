@@ -14,10 +14,14 @@ class DashboardViewController: UIViewController {
     }
     
     func updateStackView(with strings: [String]) {
-        strings.forEach { text in
+        stackView.removeAllArrangedSubviews()
+        for (i, text) in strings.enumerated(){
             let label = UILabel()
             label.numberOfLines = 0
             label.text = text
+            label.tag = i
+            label.isUserInteractionEnabled = true
+            label.addGestureRecognizer(UITapGestureRecognizer(target: self, action: #selector(articleTouched)))
             stackView.addArrangedSubview(label)
         }
     }
@@ -29,14 +33,18 @@ extension DashboardViewController: DashboardDelegate {
     
     func didUpdateArticles() {
         DispatchQueue.main.async {
-            let allArticleTitles = self.viewModel.allSections
-                .flatMap { self.viewModel.articles(for: $0) }
-                .map { $0.title }
-
-            DispatchQueue.main.async {
-                self.updateStackView(with: allArticleTitles)
-            }
-
+            let allArticleTitles = self.viewModel.getAllArticles().map { $0.title }
+            self.updateStackView(with: allArticleTitles)
         }
+    }
+}
+
+private extension DashboardViewController {
+    @objc func articleTouched(_ gestureRecognizer: UIGestureRecognizer) {
+        guard let index = gestureRecognizer.view?.tag,
+            let articleURL = viewModel.getArticleURL(at: index)
+            else { return }
+        
+        coordinator.presentSFSafariViewController(url: articleURL, from: self)
     }
 }
