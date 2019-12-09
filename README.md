@@ -1,4 +1,4 @@
-# IG Code Challenge
+# iOSIGChallenge
 _Last updated: 28 November 19_
 
 Welcome to the Team! Your manager has asked you to work on our latest app: FX World.
