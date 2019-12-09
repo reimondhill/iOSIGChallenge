@@ -2,6 +2,7 @@ import UIKit
 
 class DashboardViewController: UIViewController {
     
+    //OBS -> I Have used the existing UI with some improvements. I think table view is a better approach
     //MARK: - Properties
     var viewModel: DashboardViewModel! {
         didSet {
